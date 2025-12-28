@@ -1,0 +1,94 @@
+KEVWARDCV.CO.UK - WEBSITE SETUP GUIDE
+========================================
+
+Congratulations on purchasing kevwardcv.co.uk! Here's your step-by-step guide:
+
+1. CHOOSE WEB HOSTING
+--------------------
+You need a hosting provider to store your website files.
+
+Popular UK Hosting Options:
+• SiteGround - Great performance, good support
+• Krystal Hosting - UK-based, excellent support  
+• TSO Host - UK company, affordable plans
+• 123-reg - Often bundled with domain purchases
+• Namecheap - Reliable and affordable
+• Hostinger - Budget-friendly option
+
+What to look for:
+• cPanel or easy file management
+• PHP support (for future features)
+• SSL certificate included
+• UK-based servers (faster for UK visitors)
+• Around £3-8/month for basic shared hosting
+
+2. POINT YOUR DOMAIN TO HOSTING
+-------------------------------
+Once you have hosting:
+• Get nameservers from your hosting provider
+• Log into your domain registrar account
+• Update DNS/nameservers to point to your hosting
+
+3. UPLOAD YOUR WEBSITE FILES
+----------------------------
+• Use FTP client (FileZilla - free) or hosting File Manager
+• Upload all your files (.html, .css, images folder)
+• Make sure index.html is in the root directory
+
+4. TEST YOUR WEBSITE
+-------------------
+• Visit kevwardcv.co.uk to see if it loads
+• Check all pages and links work
+• Test on mobile devices
+
+5. ADD PROFESSIONAL TOUCHES
+---------------------------
+• Set up professional email (kev@kevwardcv.co.uk)
+• Add Google Analytics for visitor tracking
+• Consider contact form instead of just email link
+
+FILES TO UPLOAD:
+===============
+□ index.html
+□ index.css
+□ interests.html
+□ interests.css
+□ stones.html
+□ stones.css
+□ military.html
+□ military.css
+□ decorating.html
+□ decorating.css
+□ coldsaver.html
+□ coldsaver.css
+□ montracon.html
+□ montracon.css
+□ rotherhams.html
+□ rotherhams.css
+□ base-metal.html
+□ base-metal.css
+□ europower.html
+□ europower.css
+□ firefighter.html
+□ firefighter.css
+□ network.html
+□ network.css
+□ fallowmanagement.html
+□ fallowmanagement.css
+□ images/ folder (with all images)
+
+NEXT STEPS CHECKLIST:
+====================
+□ Choose hosting provider
+□ Purchase hosting plan
+□ Get nameservers from hosting
+□ Update domain DNS settings
+□ Upload all website files
+□ Test website functionality
+□ Set up professional email
+□ Add Google Analytics (optional)
+
+CONTACT INFO TO UPDATE:
+======================
+Current email: batart@hotmail.co.uk
+Future email: kev@kevwardcv.co.uk (once hosting is set up)
